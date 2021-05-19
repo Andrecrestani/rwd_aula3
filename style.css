@@ -1,0 +1,56 @@
+    h1{
+        margin-top: 50px;
+        margin-left: 900px; 
+
+    }
+
+
+
+.bt-aula{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(10, 17, 17);
+    color: white;
+    float: left;
+    height: 40px;
+    width: 50px;
+    border: 1px solid rgb(5, 245, 245);
+}
+
+.bt-aula:hover{
+    background-color: rgb(255, 255, 255);
+    color:rgb(255, 183, 0);
+    border: 1px solid rgb(255, 183, 1) ;
+    cursor: grabbing;
+}
+
+
+.bt-al{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(10, 17, 17);
+    color: white;
+    float: left;
+    height: 40px;
+    width: 40px;
+    border: 1px solid rgb(5, 245, 245);
+}
+
+.bt-al:hover{
+    background-color: rgb(255, 255, 255);
+    color:rgb(255, 183, 0);
+    border: 1px solid rgb(255, 183, 0) ;
+    cursor: grabbing;
+
+}
+
+.gp-ht{
+    
+   
+    height: 42px;
+    width: 332px;
+    margin-top: 50px;
+    
+}
